@@ -10,3 +10,13 @@
 
 > Version Check Command of Package Manager **CARGO** `cargo --version`
 
+> Generate New File Command `touch <filename>`
+
+> Run Command `rustc <filename>` after this `./<filename>`
+
+> Project Setup Command `cargo init`
+
+> Project Run Command `cargo run`
+
+> `cargo build` and `cargo build --release` 
+
