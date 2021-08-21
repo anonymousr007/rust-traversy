@@ -1,3 +1,4 @@
+// pub is public and fn is function
 pub fn run() {
     // print to console
     println!("Hello from the print.rs file");
